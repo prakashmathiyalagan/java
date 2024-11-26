@@ -1,0 +1,17 @@
+import com.data.Employee;
+
+dialect  "mvel"
+
+rule "Suggest Manager Role"
+    when
+        $e:Employee(experience >= 10 && salary > 100 && salary <= 2500000)
+    then
+        $e.role="Manager";
+end
+
+rule "Suggest current Role"
+    when
+        $e:Employee(salary < 100)
+    then
+        $e.role="Ast Manager";
+end
