@@ -21,7 +21,7 @@
 </ul>
 <u>Java11 features</u>
 <ul>
-    <li>String methods: isBlank, lines, strip, stripLeading, stripTrailing, and repeat</li>
+    <li><a href="https://github.com/prakashmathiyalagan/java/blob/main/src/main/java/com/practice/java11/StringMethods.java">String methods: isBlank, lines, strip, stripLeading, stripTrailing, and repeat</a></li>
     <li>File methods</li>
     <li>Collection to an Array</li>
     <li>Not predicate</li>
