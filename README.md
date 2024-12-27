@@ -23,8 +23,8 @@
 <ul>
     <li><a href="https://github.com/prakashmathiyalagan/java/blob/main/src/main/java/com/practice/java11/StringMethods.java">String methods: isBlank, lines, strip, stripLeading, stripTrailing, and repeat</a></li>
     <li>File methods</li>
-    <li>Collection to an Array</li>
-    <li>Not predicate</li>
-    <li>Local variable</li>
-    <li>Nest based access control</li>
+    <li><a href="https://github.com/prakashmathiyalagan/java/blob/main/src/main/java/com/practice/java11/CollectionsToArray.java">Collection to an Array</a></li>
+    <li><a href="https://github.com/prakashmathiyalagan/java/blob/main/src/main/java/com/practice/java11/CollectionsToArray.java">Not predicate</a></li>
+    <li><a href="https://github.com/prakashmathiyalagan/java/blob/main/src/main/java/com/practice/java11/LocalVariable.java">Local variable</a></li>
+    <li><a href="https://github.com/prakashmathiyalagan/java/blob/main/src/main/java/com/practice/java11/NestControl.java">Nest based access control</a></li>
 </ul>

@@ -10,7 +10,6 @@ public class CollectionsToArray {
     }
 
     public List<String> checkNotBlank(List<String> inputList) {
-        Predicate<String> predicate = input -> input.trim().isEmpty();
-        return inputList.stream().filter(Predicate.not(predicate)).collect(Collectors.toList());
+        return inputList.stream().filter(Predicate.not(input -> input.trim().isEmpty())).collect(Collectors.toList());
     }
 }
