@@ -1,4 +1,4 @@
-package com.practice.java8;
+package com.practice8.java8;
 
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Assertions;

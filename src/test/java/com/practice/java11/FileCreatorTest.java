@@ -1,4 +1,4 @@
-package com.practice.java11;
+package com.practice8.java11;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.params.ParameterizedTest;
